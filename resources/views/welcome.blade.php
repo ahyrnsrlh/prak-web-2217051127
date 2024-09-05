@@ -38,7 +38,8 @@
                     </svg>
                 </div>
                 <div style="font-size: 36px; font-weight: bold; text-align: center;">
-        .
+        Akhyar Nasrullah Adilian - 2217051127
+    </div>
     </div>
 
                 <div class="mt-16">
